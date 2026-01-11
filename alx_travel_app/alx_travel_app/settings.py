@@ -1,5 +1,5 @@
 """
-Settings for listings app.
+Settings for alx_travel_app app.
 """
 # Celery Configuration
 CELERY_BROKER_URL = 'amqp://localhost'
